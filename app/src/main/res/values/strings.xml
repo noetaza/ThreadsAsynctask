@@ -1,5 +1,9 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Project</string>
+=======
+    <string name="app_name">Threads Asynctask</string>
+>>>>>>> Initial commit
     <string name="nuevo_hilo">Ejecutar Hilo</string>
     <string name="nuevo_asynctask">Ejecutar AsyncTask</string>
     <string name="progreso1">Progreso Thread</string>

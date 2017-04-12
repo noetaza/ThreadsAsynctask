@@ -140,7 +140,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public Bitmap descargarImagen(String imageHttpAddress) {
+<<<<<<< HEAD
         URL imageUrl = null;
+=======
+        URL imageUrl;
+>>>>>>> Initial commit
         Bitmap img = null;
         try {
             imageUrl = new URL(imageHttpAddress);
