@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="nuevo_hilo">Ejecutar Hilo</string>
+    <string name="nuevo_asynctask">Ejecutar AsyncTask</string>
+    <string name="progreso1">Progreso Thread</string>
+    <string name="progreso2">Progreso Asynctask</string>
+    <string name="descarga1">Descargar con Thread</string>
+    <string name="descarga2">Descargar con Asyntask</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
