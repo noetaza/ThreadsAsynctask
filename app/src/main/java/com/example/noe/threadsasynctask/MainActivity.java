@@ -13,7 +13,6 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.Toast;
-
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
@@ -140,11 +139,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public Bitmap descargarImagen(String imageHttpAddress) {
-<<<<<<< HEAD
-        URL imageUrl = null;
-=======
         URL imageUrl;
->>>>>>> Initial commit
         Bitmap img = null;
         try {
             imageUrl = new URL(imageHttpAddress);
